@@ -40,23 +40,23 @@ In these 5 labs, we will configure security for an Azure Web App, Virtual Machin
 <h2>5 Practical Labs</h2>
 <br>
 
-- ### <a href="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/blob/main/README.md"> 1️⃣ Configure Application Insights for a Web App </a>
+- ### <a href="https://github.com/Afrocybersamurai/Configure-Application-Insights-for-a-web-app/blob/main/README.md"> 1️⃣ Configure Application Insights for a Web App </a>
 
 <br>
 
-- ### <a href="https://github.com/franciscovfonseca/Configure-security-for-a-virtual-machine/blob/main/README.md"> 2️⃣ Configure Security for a Virtual Machine </a>
+- ### <a href="https://github.com/Afrocybersamurai/Configure-security-for-a-virtual-machine/blob/main/README.md"> 2️⃣ Configure Security for a Virtual Machine </a>
 
 <br>
 
-- ### <a href="https://github.com/franciscovfonseca/Create-an-Azure-SQL-database-that-uses-Microsoft-Defender-for-SQL/blob/main/README.md"> 3️⃣ Create an Azure SQL Database that uses Microsoft Defender for SQL </a>
+- ### <a href="https://github.com/Afrocybersamurai/Create-an-Azure-SQL-database-that-uses-Microsoft-Defender-for-SQL/blob/main/README.md"> 3️⃣ Create an Azure SQL Database that uses Microsoft Defender for SQL </a>
 
 <br>
 
-- ### <a href="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/blob/main/README.md"> 4️⃣ Create and Manage a SAS Key </a>
+- ### <a href="https://github.com/Afrocybersamurai/Create-and-manage-a-SAS-key/blob/main/README.md"> 4️⃣ Create and Manage a SAS Key </a>
 
 <br>
 
-- ### <a href="https://github.com/franciscovfonseca/Configure-security-for-an-Azure-Cosmos-DB-account/blob/main/README.md"> 5️⃣ Configure Security for an Azure Cosmos DB Account </a>
+- ### <a href="https://github.com/Afrocybersamurai/Configure-security-for-an-Azure-Cosmos-DB-account/blob/main/README.md"> 5️⃣ Configure Security for an Azure Cosmos DB Account </a>
 <br>
 
 <br>
